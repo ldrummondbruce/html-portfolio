@@ -37,12 +37,12 @@ h2.alt {
 
 h3, h4 {
   font-family: 'Montserrat', sans-serif;
-  color: #11999E;
+  color: #11849e;
 }
 
 a {
   font-family: 'Montserrat', sans-serif;
-  color: #11999E;
+  color: #11849e;
   text-decoration: none;
   &:hover {
     color: #05596f;
@@ -58,6 +58,7 @@ a {
   /* margin: 0; */
   /* padding: 20px 0 50px 0; */
   background-color: #90bac3;
+  background: top 0px left 0px / cover no-repeat url('../img/white-technology-background/3274406.jpg');
   width: 100%;
 }
 
@@ -126,7 +127,7 @@ a {
 .profile-img {
   margin: 20px 0;
   width: 160px;
-  border: 6px solid #90bac3;
+  border: 3px solid #11899e;
   border-radius: 50%
 }
 .intro {
@@ -171,7 +172,7 @@ a {
   float: right;
   margin-right: 0;
   border-radius: 50%;
-  border: 6px solid #90bac3;
+  border: 3px solid #11899e;
 }
 
 /* .skill-row-2 p {
@@ -184,7 +185,7 @@ a {
 }
 
 .contact-me .btn {
-  background: linear-gradient(to bottom, #90bac3, #558691);
+  background: linear-gradient(to bottom, #11849e, #558691);
   border:1px transparent;
   border-radius: 7px;
   color: #FFFFFF;
